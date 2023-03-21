@@ -31,3 +31,7 @@ packaging/Output/*
 
 # vscode cmake builds
 build
+
+# Misc
+AudioPluginHost
+*.filtergraph
